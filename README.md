@@ -1,1 +1,2 @@
-# jquery_todo
+# Jquery ile Todo List
+
